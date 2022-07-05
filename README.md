@@ -16,7 +16,12 @@ Added styling on a div that surrounds the mapped squares
     centered both gameboard and header
 Passed the value of board to Square component to display question mark
 centered question mark
+
 - As a user, when I click on one of the question marks an alert appears with the index position of that question mark in the array.
+Branch: alertIndex
+Passed index into square component
+Made an onClick method on  
+
 - As a user, when I click on one of the question marks instead of the alert the question mark turns into a tree emoji.
 - As a user, if I select the winning square the question mark will become a treasure emoji and if I select the losing square the question mark will become a bomb emoji.
 - As a user, I can click on a “Play Again” button that will restart the game.
